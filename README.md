@@ -47,6 +47,6 @@ Run the Perl package that gene-conversion depend on：
 perl WCV.Ptr.and.Sbr.pl Ptr_Sbr.quartet.txt Ptr Sbr
 
 ## Run PCV
-perl PCV.Sbr.and.Ptr.pl Sbr_Ptr.quartet
+perl PCV.Ptr.and.Sbr.pl Ptr_Sbr.quartet
 ~~~
 
