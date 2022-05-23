@@ -41,7 +41,7 @@ Run the Perl package that gene-conversion depend on：
 ## command
 
 + The CV.paps, dna.paps, and out.cv folders are required to run gene-conversion
-
++ After running WCV, the files in dna.paps are used to run PCV
 ~~~bash
 ## Run WCV
 perl WCV.Ptr.and.Sbr.pl Ptr_Sbr.quartet.txt Ptr Sbr
